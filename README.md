@@ -1,78 +1,78 @@
 # GeeTest CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha)
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
 
-Effortlessly bypass GeeTest CAPTCHAs with Bright Data's advanced CAPTCHA-solving technology. Leverage machine-learning algorithms, [automated IP rotation](https://brightdata.com/solutions/rotating-proxies), and a robust proxy infrastructure to ensure seamless and consistent access to target sites.  
+Bright Dataの高度なCAPTCHA解決テクノロジーで、GeeTest CAPTCHAを簡単にバイパスできます。機械学習アルゴリズム、[自動IPローテーション](https://brightdata.jp/solutions/rotating-proxies)、そして堅牢なプロキシインフラストラクチャを活用し、ターゲットサイトへのシームレスで一貫したアクセスを確保します。  
 
-Bright Data’s CAPTCHA Solver is a built-in feature of our [**Scraping Browser**](https://brightdata.com/products/scraping-browser) and [**Web Unlocker API**](https://brightdata.com/products/web-unlocker), offering a complete solution for handling even the most complex CAPTCHA challenges.  
+Bright DataのCAPTCHA Solverは、当社の[**Scraping Browser**](https://brightdata.jp/products/scraping-browser)および[**Web Unlocker API**](https://brightdata.jp/products/web-unlocker)に組み込みの機能であり、最も複雑なCAPTCHAチャレンジにも対応する完全なソリューションを提供します。  
 
 
 ## Features  
-- **Rapid CAPTCHA Solving**: Automatically solve GeeTest CAPTCHAs with high accuracy and speed.  
-- **IP Rotation**: Avoid bans with automated retries and dynamic IP adjustments.  
-- **Browser Fingerprinting**: Mimic real user activity to [bypass sophisticated bot detection](https://brightdata.com/blog/web-data/anti-scraping-techniques).  
-- **JavaScript Rendering**: Handle dynamic content on JavaScript-heavy sites.  
-- **Worldwide Geo-Coverage**: Unlock content from any global region with pinpoint precision.  
-- **Seamless Integration**: Works effortlessly with tools like Puppeteer, Playwright, and Selenium.  
-- **Event Monitoring**: Track CAPTCHA-solving events like detection, success, or failure.  
+- **迅速なCAPTCHA解決**: GeeTest CAPTCHAを高い精度と速度で自動的に解決します。  
+- **IP Rotation**: 自動リトライと動的なIP調整により、BANを回避します。  
+- **Browser Fingerprinting**: 実ユーザーのアクティビティを模倣して、[高度なボット検知をバイパス](https://brightdata.jp/blog/web-data/anti-scraping-techniques)します。  
+- **JavaScript Rendering**: JavaScriptが多用されるサイト上の動的コンテンツに対応します。  
+- **Worldwide Geo-Coverage**: ピンポイントの精度で、世界中の任意の地域からコンテンツをアンロックします。  
+- **Seamless Integration**: Puppeteer、Playwright、Seleniumなどのツールと簡単に連携します。  
+- **Event Monitoring**: 検知、成功、失敗などのCAPTCHA解決イベントを追跡します。  
 
 ## Why Choose GeeTest CAPTCHA Solver  
 
-### **Trusted by 20,000+ Customers Worldwide**  
-Bright Data’s CAPTCHA Solver is trusted by developers, businesses, and enterprises for its unmatched reliability and performance.  
+### **世界中の20,000社以上のお客様に信頼されています**  
+Bright DataのCAPTCHA Solverは、比類ない信頼性とパフォーマンスにより、開発者、企業、エンタープライズのお客様に信頼されています。  
 
-### **Powered by a Premium Proxy Network**  
-With over 100M IPs and advanced geo-targeting capabilities, our proxy infrastructure ensures smooth and uninterrupted CAPTCHA solving.  
+### **プレミアムプロキシネットワークによって支えられています**  
+1億以上のIPと高度なジオターゲティング機能により、当社のプロキシインフラストラクチャはスムーズで中断のないCAPTCHA解決を実現します。  
 
-### **AI-Driven CAPTCHA Solving**  
-Our CAPTCHA Solver uses advanced AI-based logic to detect, analyze, and solve CAPTCHAs automatically. It handles retries, fingerprinting, and headers to bypass even the most sophisticated anti-bot measures.  
+### **AI駆動のCAPTCHA解決**  
+当社のCAPTCHA Solverは、高度なAIベースのロジックを使用してCAPTCHAを自動で検知・分析・解決します。リトライ、ブラウザフィンガープリント、ヘッダーを処理し、最も高度なアンチボット対策さえもバイパスします。  
 
-### **Built for Developers**  
-- Easy integration with Puppeteer, Playwright, and Selenium.  
-- Fully customizable settings for CAPTCHA-solving behavior.  
-- Automatic retries and dynamic IP adjustments for uninterrupted scraping.
+### **開発者向けに設計されています**  
+- Puppeteer、Playwright、Seleniumとの簡単な連携。  
+- CAPTCHA解決の挙動を完全にカスタマイズ可能な設定。  
+- 中断のないスクレイピングのための自動リトライと動的IP調整。
 
 > **Pro Tip 💡**
->> Already have a CAPTCHA-solving setup? Enhance it with our proxies for [Puppeteer](https://brightdata.com/integration/puppeteer), [Playwright](https://brightdata.com/integration/playwright), and [Selenium](https://brightdata.com/integration/selenium) to minimize CAPTCHA challenges.
+>> すでにCAPTCHA解決のセットアップをお持ちですか？当社のプロキシを[​Puppeteer](https://brightdata.jp/integration/puppeteer)、[Playwright](https://brightdata.jp/integration/playwright)、[Selenium](https://brightdata.jp/integration/selenium)向けに追加して、CAPTCHAチャレンジを最小化できます。
 
 ## How It Works  
 
-Bright Data’s CAPTCHA Solver is integrated into the **Scraping Browser** and **Web Unlocker**, making CAPTCHA solving effortless.  
+Bright DataのCAPTCHA Solverは**Scraping Browser**と**Web Unlocker**に統合されており、CAPTCHA解決を手間なく行えます。  
 
-### **Automatic CAPTCHA Solving**  
-The CAPTCHA Solver automatically detects and resolves CAPTCHAs in real-time. Simply enable the feature, and it will handle everything from detection to solving.  
+### **自動CAPTCHA解決**  
+CAPTCHA SolverはCAPTCHAをリアルタイムで自動検知し解決します。機能を有効化するだけで、検知から解決までのすべてを処理します。  
 
 #### Example Workflow:  
-1. **Detect CAPTCHA**: The solver identifies the CAPTCHA type (e.g., PerimeterX).  
-2. **Solve CAPTCHA**: Using AI-based logic, the solver resolves the CAPTCHA.  
-3. **Retry on Failure**: If solving fails, the system automatically retries with a new IP.  
-4. **Return Results**: Once solved, the system provides seamless access to the target site.  
+1. **CAPTCHAを検知**: ソルバーがCAPTCHAタイプ（例: PerimeterX）を識別します。  
+2. **CAPTCHAを解決**: AIベースのロジックにより、ソルバーがCAPTCHAを解決します。  
+3. **失敗時にリトライ**: 解決に失敗した場合、システムが新しいIPで自動的にリトライします。  
+4. **結果を返却**: 解決後、システムがターゲットサイトへのシームレスなアクセスを提供します。  
 
 ## Supported CAPTCHA Types  
 
-Bright Data’s CAPTCHA Solver supports a wide range of CAPTCHA types, including:  
+Bright DataのCAPTCHA Solverは、以下を含む幅広いCAPTCHAタイプに対応しています。  
 
-- [**DataDome**](https://brightdata.com/products/web-unlocker/captcha-solver/datadome)
-- [**reCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/recaptcha)
-- [**Click Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/click-captcha)
-- [**Cloudflare**](https://brightdata.com/products/web-unlocker/captcha-solver/Cloudflare)
-- [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)
-- [**SimpleCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/simplecaptcha)
-- [**FunCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha)
-- [**Cloudflare Turnstile**](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)
-- [**AWS WAF Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha)
-- [**GeeTest CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha)
-- [**KeyCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/keycaptcha)
-- [**Puzzle CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/puzzle-captcha)
-- [**Yandex CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/yandex-captcha)
-- [**Image CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/image-captcha)
-- [**Text CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/text-captcha)
+- [**DataDome**](https://brightdata.jp/products/web-unlocker/captcha-solver/datadome)
+- [**reCAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/recaptcha)
+- [**Click Captcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/click-captcha)
+- [**Cloudflare**](https://brightdata.jp/products/web-unlocker/captcha-solver/Cloudflare)
+- [**PerimeterX**](https://brightdata.jp/products/web-unlocker/captcha-solver/perimeterx)
+- [**SimpleCaptcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/simplecaptcha)
+- [**FunCaptcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha)
+- [**Cloudflare Turnstile**](https://brightdata.jp/products/web-unlocker/captcha-solver/cloudflare-turnstile)
+- [**AWS WAF Captcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/aws-waf-captcha)
+- [**GeeTest CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
+- [**KeyCAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/keycaptcha)
+- [**Puzzle CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/puzzle-captcha)
+- [**Yandex CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/yandex-captcha)
+- [**Image CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/image-captcha)
+- [**Text CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/text-captcha)
 
 ## Advanced Customization  
 
-[Bright Data’s CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) allows for advanced customization to fine-tune solving logic for specific scenarios.
+[Bright DataのCAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
 
-### **Custom Options for GeeTest Challenges**  
+### **GeeTestチャレンジ向けのカスタムオプション**  
 ```javascript
 // Define default options for different CAPTCHA types
 function getCaptchaOptions(captchaType, customOptions = {}) {
@@ -132,42 +132,42 @@ try {
 ```
 
 ## **Event Monitoring**  
-Track CAPTCHA-solving events to handle advanced use cases:  
-- `Captcha.detected`: CAPTCHA detected and solving has started.  
-- `Captcha.solveFinished`: CAPTCHA solved successfully.  
-- `Captcha.solveFailed`: CAPTCHA solving failed.  
+高度なユースケースに対応するため、CAPTCHA解決イベントを追跡できます:  
+- `Captcha.detected`: CAPTCHAが検知され、解決が開始されました。  
+- `Captcha.solveFinished`: CAPTCHAが正常に解決されました。  
+- `Captcha.solveFailed`: CAPTCHA解決に失敗しました。  
 
 ## **Pricing**
 
 | **Plan**         | **Price (1K Results)** | **Monthly Cost** | **Description**                                  |  
 |-------------------|------------------------|------------------|------------------------------------------------|  
-| **Pay-as-you-go** | $1.50                 | No commitment    | Ideal for ad-hoc scraping needs.               |  
-| **Growth**        | $1.27                 | $499             | Tailored for scaling teams.                    |  
-| **Business**      | $1.12                 | $999             | Suitable for large-scale scraping operations.  |  
-| **Premium**       | $1.05                 | $1,999           | Advanced features with priority support.       |  
-| **Enterprise**    | Custom Quote          | Contact Us       | Custom packages for top-tier business needs.   |  
+| **Pay-as-you-go** | $1.50                 | No commitment    | スポット的なスクレイピングニーズに最適です。               |  
+| **Growth**        | $1.27                 | $499             | スケールするチーム向けに最適化されています。                    |  
+| **Business**      | $1.12                 | $999             | 大規模なスクレイピング運用に適しています。  |  
+| **Premium**       | $1.05                 | $1,999           | 優先サポート付きの高度な機能です。       |  
+| **Enterprise**    | Custom Quote          | Contact Us       | 最上位のビジネスニーズ向けカスタムパッケージです。   |  
 
-🚀 **SPECIAL OFFER**: Match your first deposit dollar-for-dollar up to **$500**!  
+🚀 **SPECIAL OFFER**: 初回入金額を最大**$500**まで1ドル単位で同額マッチします！  
 
 ## **Why Developers Love GeeTest CAPTCHA Solver**  
-- **Easy Integration**: Works seamlessly with Puppeteer, Playwright, and Selenium.  
-- **Advanced AI-Based Logic**: Handles retries, CAPTCHA solving, fingerprinting, IP rotation, and advanced headers automatically.  
-- **Built-in Browser**: No need to manage external browsers for JavaScript rendering.  
-- **Real-Time Insights**: Monitor network performance via a live dashboard.  
-- **Unmatched Support**: 24/7 global customer support with new features added daily.  
+- **Easy Integration**: Puppeteer、Playwright、Seleniumとシームレスに連携します。  
+- **Advanced AI-Based Logic**: リトライ、CAPTCHA解決、ブラウザフィンガープリント、IPローテーション、高度なヘッダーを自動的に処理します。  
+- **Built-in Browser**: JavaScriptレンダリングのために外部ブラウザを管理する必要はありません。  
+- **Real-Time Insights**: ライブダッシュボードでネットワークパフォーマンスを監視できます。  
+- **Unmatched Support**: 新機能が日々追加される、24時間365日のグローバルカスタマーサポートです。  
 
 ## **FAQ**  
 
-### **How does the GeeTest CAPTCHA solver work?**  
-The solver uses advanced AI-based logic to detect and solve GeeTest CAPTCHAs automatically.  
+### **GeeTest CAPTCHA solverはどのように動作しますか？**  
+ソルバーは高度なAIベースのロジックを使用して、GeeTest CAPTCHAを自動的に検知し解決します。  
 
-### **Can it handle multiple CAPTCHAs simultaneously?**  
-Yes, the solution scales to handle multiple CAPTCHA types concurrently, ensuring uninterrupted access.  
+### **複数のCAPTCHAを同時に処理できますか？**  
+はい。本ソリューションは複数のCAPTCHAタイプを同時接続で処理できるようにスケールし、中断のないアクセスを確保します。  
 
-### **What happens if CAPTCHA solving fails?**  
-Retries are automatically attempted. If problems persist, contact our 24/7 support team to troubleshoot.  
+### **CAPTCHA解決に失敗した場合はどうなりますか？**  
+リトライが自動的に実行されます。問題が継続する場合は、24時間365日のサポートチームにお問い合わせいただき、トラブルシューティングしてください。  
 
 ---
 
-## **Say Goodbye to GeeTest CAPTCHAs**  
-Start your free trial today and experience seamless [GeeTest CAPTCHA solving with Bright Data!](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha) 
+## **GeeTest CAPTCHAにさよならを**  
+今すぐ無料トライアルを開始して、シームレスな[Bright DataによるGeeTest CAPTCHA解決を体験してください！](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
