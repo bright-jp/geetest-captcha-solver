@@ -1,6 +1,6 @@
 # GeeTest CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
 
 Bright Dataの高度なCAPTCHA解決テクノロジーで、GeeTest CAPTCHAを簡単にバイパスできます。機械学習アルゴリズム、[自動IPローテーション](https://brightdata.jp/solutions/rotating-proxies)、そして堅牢なプロキシインフラストラクチャを活用し、ターゲットサイトへのシームレスで一貫したアクセスを確保します。  
 
@@ -70,7 +70,7 @@ Bright DataのCAPTCHA Solverは、以下を含む幅広いCAPTCHAタイプに対
 
 ## Advanced Customization  
 
-[Bright DataのCAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
+[Bright DataのCAPTCHA Solver](https://github.com/bright-jp/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
 
 ### **GeeTestチャレンジ向けのカスタムオプション**  
 ```javascript
